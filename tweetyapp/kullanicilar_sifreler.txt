@@ -1,0 +1,7 @@
+____admin____
+admin:yazmuh
+şifre:12345678*
+
+____Kullanıcı____
+kullanıcı:kullanıcı1
+şifre:12345678*
